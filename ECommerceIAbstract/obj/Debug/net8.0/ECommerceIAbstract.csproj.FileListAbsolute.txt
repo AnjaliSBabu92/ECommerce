@@ -1,0 +1,15 @@
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\bin\Debug\net8.0\ECommerceIAbstract.deps.json
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\bin\Debug\net8.0\ECommerceIAbstract.dll
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\bin\Debug\net8.0\ECommerceIAbstract.pdb
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\bin\Debug\net8.0\ECommerceShared.dll
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\bin\Debug\net8.0\ECommerceShared.pdb
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.csproj.AssemblyReference.cache
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.AssemblyInfo.cs
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerc.8F1182A5.Up2Date
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.dll
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\refint\ECommerceIAbstract.dll
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ECommerceIAbstract.pdb
+D:\ECommerce\ECommerceApp\ECommerceIAbstract\obj\Debug\net8.0\ref\ECommerceIAbstract.dll

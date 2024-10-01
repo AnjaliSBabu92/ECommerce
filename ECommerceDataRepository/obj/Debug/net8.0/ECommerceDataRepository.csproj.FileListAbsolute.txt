@@ -1,0 +1,17 @@
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceDataRepository.deps.json
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceDataRepository.dll
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceDataRepository.pdb
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceIAbstract.dll
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceShared.dll
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceIAbstract.pdb
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\bin\Debug\net8.0\ECommerceShared.pdb
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.csproj.AssemblyReference.cache
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.AssemblyInfoInputs.cache
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.AssemblyInfo.cs
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.csproj.CoreCompileInputs.cache
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerc.42C4A039.Up2Date
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.dll
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\refint\ECommerceDataRepository.dll
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ECommerceDataRepository.pdb
+D:\ECommerce\ECommerceApp\ECommerceDataRepository\obj\Debug\net8.0\ref\ECommerceDataRepository.dll
